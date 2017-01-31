@@ -17,7 +17,7 @@ namespace InvokeExample
             };
 
             var contentGenerator = new EmailContentGenerator(generatorSettings, log);
-            var content = contentGenerator.GenerateContentAsync(EmailTemplates.WelcomeFxTemplate, new { Years ="2015"}).Result;
+            var content = contentGenerator.GenerateWelcomeFxTemplateAsync().Result;
 
             Console.WriteLine(content);
             Console.ReadLine();

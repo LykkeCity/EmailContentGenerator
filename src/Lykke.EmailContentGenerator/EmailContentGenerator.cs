@@ -1,7 +1,4 @@
-﻿using System;
-using System.Net.Http;
-using System.Reflection;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
 using Common;
 using Common.Log;
 

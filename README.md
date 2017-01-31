@@ -9,7 +9,7 @@ https://github.com/LykkeCity/EmailContentGenerator/blob/master/src/InvokeExample
 
 #How to extend
 
-- Everything works _EmailGeneratorHelpers.cs file: https://github.com/LykkeCity/EmailContentGenerator/blob/master/src/Lykke.EmailContentGenerator/EmailGeneratorHelpers.cs
+- Everything works _EmailGeneratorHelpers.cs file: https://github.com/LykkeCity/EmailContentGenerator/blob/master/src/Lykke.EmailContentGenerator/_EmailGeneratorHelpers.cs
 
 - Add template to Enum;
 

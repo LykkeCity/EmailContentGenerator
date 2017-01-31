@@ -13,7 +13,7 @@ https://github.com/LykkeCity/EmailContentGenerator/blob/master/src/InvokeExample
 
 - Add template name to Enum;
 
-- Upload html of template (name have to be the same as name of Enum template);
+- Upload html of template (name has to be the same as name of Enum template);
 
 - Specify placeholders model;
 

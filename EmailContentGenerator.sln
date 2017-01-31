@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{CFCBA23C-BB2F-46E8-9FAB-CE4EFDFDCA1D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{51ED1165-D843-415E-BF70-6EDBD12C957F}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Lykke.EmailContentGenerator", "src\Lykke.EmailContentGenerator\Lykke.EmailContentGenerator.xproj", "{E869C683-7B8B-4CF4-B660-B39D3B9025AA}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "InvokeExample", "src\InvokeExample\InvokeExample.xproj", "{8B677E1B-71A3-4F79-BD3C-106D6BC23FEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E869C683-7B8B-4CF4-B660-B39D3B9025AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E869C683-7B8B-4CF4-B660-B39D3B9025AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E869C683-7B8B-4CF4-B660-B39D3B9025AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E869C683-7B8B-4CF4-B660-B39D3B9025AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B677E1B-71A3-4F79-BD3C-106D6BC23FEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B677E1B-71A3-4F79-BD3C-106D6BC23FEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B677E1B-71A3-4F79-BD3C-106D6BC23FEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B677E1B-71A3-4F79-BD3C-106D6BC23FEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E869C683-7B8B-4CF4-B660-B39D3B9025AA} = {CFCBA23C-BB2F-46E8-9FAB-CE4EFDFDCA1D}
+		{8B677E1B-71A3-4F79-BD3C-106D6BC23FEE} = {CFCBA23C-BB2F-46E8-9FAB-CE4EFDFDCA1D}
+	EndGlobalSection
+EndGlobal

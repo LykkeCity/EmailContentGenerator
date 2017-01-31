@@ -11,9 +11,9 @@ https://github.com/LykkeCity/EmailContentGenerator/blob/master/src/InvokeExample
 
 - Everything works _EmailGeneratorHelpers.cs file: https://github.com/LykkeCity/EmailContentGenerator/blob/master/src/Lykke.EmailContentGenerator/_EmailGeneratorHelpers.cs
 
-- Add template to Enum;
+- Add template name to Enum;
 
-- Upload html of template;
+- Upload html of template (name have to be the same as name of Enum template);
 
 - Specify placeholders model;
 
